@@ -1,3 +1,5 @@
+//https://www.lintcode.com/problem/o1-check-power-of-2/description
+
 class Solution {
 public:
     /**
