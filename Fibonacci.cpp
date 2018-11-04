@@ -1,4 +1,5 @@
 //https://www.lintcode.com/problem/fibonacci/description
+//Iterative
 
 class Solution {
 public:
